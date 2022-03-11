@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 개발자를 꿈꾸는 대학생
+### 꾸준히 성장하는 사람되기
+
+# Tech Stack
+
+
 <!--
 **gjehdalshh/gjehdalshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
