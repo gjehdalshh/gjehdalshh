@@ -4,7 +4,7 @@
 - 꾸준히 성장하는 사람되기
 
 ### Tech Stack
-<image src="https://user-images.githubusercontent.com/77053445/157843593-0817e856-5bfc-437f-9281-3d5b0bf23480.svg" width="50" height="50">
+<image src="https://user-images.githubusercontent.com/77053445/157843593-0817e856-5bfc-437f-9281-3d5b0bf23480.svg" width="30" height="30">
 
 
 <!--
