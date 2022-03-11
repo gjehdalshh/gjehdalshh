@@ -1,9 +1,9 @@
-### Hi there 👋
+### Web Backend Engineer
 
-### 개발자를 꿈꾸는 대학생
-### 꾸준히 성장하는 사람되기
+- 개발자를 꿈꾸는 대학생
+- 꾸준히 성장하는 사람되기
 
-# Tech Stack
+### Tech Stack
 
 
 <!--
