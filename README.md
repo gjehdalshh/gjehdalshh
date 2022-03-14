@@ -14,6 +14,7 @@
 <image src="https://user-images.githubusercontent.com/77053445/157845102-dc69b283-aabb-4256-bf77-f499fdfbb48e.svg" width="30" height="30">
   <image src="https://user-images.githubusercontent.com/77053445/157846441-0fa431c6-21f5-411b-b89d-44febe491cf5.svg" width="30" height="30">
     
+    <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/MySQL-e68700?style=flat&logo=MySQL&logoColor=005e87"/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
     
