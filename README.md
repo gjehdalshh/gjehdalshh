@@ -13,3 +13,5 @@
 <image src="https://user-images.githubusercontent.com/77053445/157845049-0104f9d6-1d69-4f17-80e6-568418f33e3a.svg" width="30" height="30">
 <image src="https://user-images.githubusercontent.com/77053445/157845102-dc69b283-aabb-4256-bf77-f499fdfbb48e.svg" width="30" height="30">
   <image src="https://user-images.githubusercontent.com/77053445/157846441-0fa431c6-21f5-411b-b89d-44febe491cf5.svg" width="30" height="30">
+
+    <img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=CC6699"/>
