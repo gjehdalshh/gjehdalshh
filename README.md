@@ -15,4 +15,4 @@
   <image src="https://user-images.githubusercontent.com/77053445/157846441-0fa431c6-21f5-411b-b89d-44febe491cf5.svg" width="30" height="30">
     
 ### My Blog
-    <https://gjehdalshh.tistory.com/>
+[블로그]<https://gjehdalshh.tistory.com/>
