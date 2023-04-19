@@ -8,10 +8,10 @@
 - 개발을 접하고 나서 개발하는 재미에 푹 빠져 있습니다.
 - 배우고 성장하는 즐거움을 원동력으로 삼고 있습니다.
 - 꾸준히 성장하기 위해 새로운 것을 배우고 내 것으로 만들기 위해 노력합니다.
-- 함께 성장하기, 커피와 개발을 좋아합니다.
-
-
-
+- 함께 성장하기, 커피와 개발을 좋아합니다.  
+  
+    
+    
 # 🔎 Profile
 
 ### 학력
@@ -22,10 +22,10 @@
 ### 자격증
 
 - 정보처리기능사
-- 정보처리기사
-
-
-
+- 정보처리기사  
+  
+    
+    
 # ⚒️ Skills
 
 ## langauge
@@ -35,20 +35,20 @@
 - Java,  Spring MVC,  Git,  AWS,  Linux
 
 ## Frontend
-- HTML,  CSS,  Javascript
-
-
-
+- HTML,  CSS,  Javascript  
+  
+    
+    
 # 👋 Contact & Channel
 
 - Email ｜ [g](mailto:marketing@wantedlab.com)jehdalshh7@gmail.com
 - phone ｜ 010-2757-6511
 
 - Github｜[https://github.com/gjehdalshh](https://github.com/gjehdalshh)
-- Blog｜[https://gjehdalshh.tistory.com/](https://gjehdalshh.tistory.com/)
-
-
-
+- Blog｜[https://gjehdalshh.tistory.com/](https://gjehdalshh.tistory.com/)  
+  
+    
+    
 # Experience
 
 ## 2022 한국컴퓨터종합학술대회 (KCC2022)
@@ -81,10 +81,10 @@
             
             넘길 때마다일정 개수만 추출
             
-            - 페이지마다 일정 개수만 추출하여 보여주기 때문에 모든 페이지가 1초 이내로 실행됨
-
-
-
+            - 페이지마다 일정 개수만 추출하여 보여주기 때문에 모든 페이지가 1초 이내로 실행됨  
+              
+                
+                
 # 👩🏻‍💻 Projects
 
 [주요 프로젝트 포트폴리오](https://www.notion.so/65f3c961a25148b69bcaa6750cd7e6e7)
