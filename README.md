@@ -1,5 +1,7 @@
 # 꾸준히 성장하는 개발자, 허동민입니다.
 
+
+
 # 💫 About me
 
 - 안녕하세요!  신입 백엔드 개발자 허동민입니다.
@@ -7,6 +9,8 @@
 - 배우고 성장하는 즐거움을 원동력으로 삼고 있습니다.
 - 꾸준히 성장하기 위해 새로운 것을 배우고 내 것으로 만들기 위해 노력합니다.
 - 함께 성장하기, 커피와 개발을 좋아합니다.
+
+
 
 # 🔎 Profile
 
@@ -20,19 +24,20 @@
 - 정보처리기능사
 - 정보처리기사
 
+
+
 # ⚒️ Skills
 
-## language
-
+## langauge
 - **Java**,  C,  Python
 
 ## Backend
-
 - Java,  Spring MVC,  Git,  AWS,  Linux
 
 ## Frontend
-
 - HTML,  CSS,  Javascript
+
+
 
 # 👋 Contact & Channel
 
@@ -41,6 +46,8 @@
 
 - Github｜[https://github.com/gjehdalshh](https://github.com/gjehdalshh)
 - Blog｜[https://gjehdalshh.tistory.com/](https://gjehdalshh.tistory.com/)
+
+
 
 # Experience
 
@@ -75,6 +82,8 @@
             넘길 때마다일정 개수만 추출
             
             - 페이지마다 일정 개수만 추출하여 보여주기 때문에 모든 페이지가 1초 이내로 실행됨
+
+
 
 # 👩🏻‍💻 Projects
 
