@@ -27,13 +27,13 @@
     
 # ⚒️ Skills
 
-## langauge
+### langauge
 - **Java**,  C,  Python
 
-## Backend
+### Backend
 - Java,  Spring MVC,  Git,  AWS,  Linux
 
-## Frontend
+### Frontend
 - HTML,  CSS,  Javascript  
   
     
@@ -50,7 +50,7 @@
     
 # Experience
 
-## 2022 한국컴퓨터종합학술대회 (KCC2022)
+### 2022 한국컴퓨터종합학술대회 (KCC2022)
 
 - 학회에서 연구 성과 발표 및 피드백
 - 워크샵을 통한 정보 교류
@@ -59,7 +59,7 @@
 
 [청각장애인을 위한 음의 시각 및 촉각화.hwp.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28332881-8d9a-49ad-badd-acd8cd17bfa0/%EC%B2%AD%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%9D%8C%EC%9D%98_%EC%8B%9C%EA%B0%81_%EB%B0%8F_%EC%B4%89%EA%B0%81%ED%99%94.hwp.pdf)
 
-## **고문 검색기 외주 작업 (2023)**
+### **고문 검색기 외주 작업 (2023)**
 
 - 클라이언트와의 회의를 통한 개발 방향 결정 (프로젝트 범위 결정 및 프로젝트 기간 산정)
 - 주 1회 회의를 통해 알맞은 방향으로 개발 중인지 검토
