@@ -2,10 +2,6 @@
 
 # 💫 About me
 
-![user.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee484e95-854c-42f2-a452-f0d7cb94682f/user.png)
-
-[](https://www.notion.so/45119b536c54486f93a72aa2e0760f96)
-
 - 안녕하세요!  신입 백엔드 개발자 허동민입니다.
 - 개발을 접하고 나서 개발하는 재미에 푹 빠져 있습니다.
 - 배우고 성장하는 즐거움을 원동력으로 삼고 있습니다.
@@ -14,23 +10,17 @@
 
 # 🔎 Profile
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
 ### 학력
 
-영진전문대학교 컴퓨터공학 전공
-
-계명대학교 컴퓨터공학 전공(편입학)
+- 영진전문대학교 컴퓨터공학 전공
+- 계명대학교 컴퓨터공학 전공(편입학)
 
 ### 자격증
 
-정보처리기능사
-
-정보처리기사
+- 정보처리기능사
+- 정보처리기사
 
 # ⚒️ Skills
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
 
 ## language
 
@@ -46,19 +36,13 @@
 
 # 👋 Contact & Channel
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
 - Email ｜ [g](mailto:marketing@wantedlab.com)jehdalshh7@gmail.com
 - phone ｜ 010-2757-6511
-
----
 
 - Github｜[https://github.com/gjehdalshh](https://github.com/gjehdalshh)
 - Blog｜[https://gjehdalshh.tistory.com/](https://gjehdalshh.tistory.com/)
 
 # Experience
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
 
 ## 2022 한국컴퓨터종합학술대회 (KCC2022)
 
@@ -93,7 +77,5 @@
             - 페이지마다 일정 개수만 추출하여 보여주기 때문에 모든 페이지가 1초 이내로 실행됨
 
 # 👩🏻‍💻 Projects
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
 
 [주요 프로젝트 포트폴리오](https://www.notion.so/65f3c961a25148b69bcaa6750cd7e6e7)
