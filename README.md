@@ -2,7 +2,7 @@
 
 - 개발자를 꿈꾸는 대학생
 - 꾸준히 성장하는 사람되기
-
+💫 About me 
 ### Main Stack
 <image src="https://user-images.githubusercontent.com/77053445/157846254-d759fd12-3ca1-4f06-9ab5-5075806d3138.svg?style=flat&logo=Sass&logoColor=CC6699" width="30" height="30"><image src="https://user-images.githubusercontent.com/77053445/157846346-ba5ddfb6-39b3-42de-b06e-a75b37f2d363.svg" width="30" height="30">
 <image src="https://user-images.githubusercontent.com/77053445/157846394-81225488-b240-4b9b-b71a-d71e77f6b91c.svg" width="30" height="30">
